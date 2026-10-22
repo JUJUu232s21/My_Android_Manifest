@@ -6,5 +6,5 @@ android:isGame="true"
 android:largeHeap="true"
 android:persistent="true"
 android:requestLegacyExternalStorage="true"
-android:usesCleartextTraffic="true
+android:usesCleartextTraffic="true"
 android:supportsRtl="true"
